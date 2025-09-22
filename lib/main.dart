@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Waiting Room'),
         ),
         body: const Center(
-          child: WaitingRoomCard(name: 'John Doe'),
+          child: WaitingRoomCard(name: 'Malek Romdhane'),
         ),
 
       ),
